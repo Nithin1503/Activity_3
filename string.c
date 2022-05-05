@@ -1,4 +1,4 @@
-#include"char.h"
+#include"ask.h"
 #include<stdio.h>
 #include<string.h>
 int name(char str[])

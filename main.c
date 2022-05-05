@@ -8,12 +8,12 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#include"char.h"
+#include"ask.h"
 #include<stdio.h>
 int main()
 {
  char str[50];
  scanf("%s", str);
- printf("%X", name(str));
+ printf("%X\n", name(str));
  return 0;
 }
